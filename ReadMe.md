@@ -1,4 +1,4 @@
-"""
+
 # TimeSeries Classification for Human Activity Recognition
 
 ## Project Overview
